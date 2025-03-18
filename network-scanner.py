@@ -34,5 +34,5 @@ if __name__ == "__main__":
         print("[-] Invalid IP range. Please enter a valid range (e.g., 192.168.1.0/24).")
 
 
-# 172.16.4.102/16
+# If not running by using sudo command use this command below
 # sudo env "PATH=$PATH" python3 port-finder.py
