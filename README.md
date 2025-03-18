@@ -87,8 +87,3 @@ This tool is intended for educational purposes and authorized network testing on
 
 ---
 
-### Notes for You
-- Replace `yourusername` in the `git clone` URL with your actual GitHub username.
-- If you haven’t created a `LICENSE` file yet, you can add one to your repository (e.g., MIT License is common for open-source projects).
-- Save this text in a file named `README.md` in your GitHub repository root directory.
-
